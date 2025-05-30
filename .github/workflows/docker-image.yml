@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/Wilson175/xhttp:latest
+          tags: ghcr.io/Wilson175/xhttp2:latest
